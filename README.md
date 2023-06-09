@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simón Fajardo</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
+<p>I am a Full Stack developer, passionate about the world of web programming, capable of working both on the client side (Front End) and on the server side (Back End), with tools that allow me to face different phases in the construction of software.</p>
+
 - 🔭 I’m currently working on **my final project to obtain my Edtecnica Full Stack programmer certificate, creating an online clothing store**
 
 - 🌱 I’m currently learning **more in depth HTML, CSS, Javascript and MongoDB**
