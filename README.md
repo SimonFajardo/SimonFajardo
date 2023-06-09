@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Simón Fajardo</h1>
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
-<p>I am a Full Stack developer, passionate about the world of web programming, capable of working both on the client side (Front End) and on the server side (Back End), with tools that allow me to face different phases in the construction of software.</p>
+<p>I am a Venezuelan raised in the eastern part of the country, Anzoátegui state, Aragua de Barcelona, graduated with a Bachelor of Science in the "Narciso Fragachán" high school. I migrated to the capital in 2009, where I began my university studies, entering the Central University of Venezuela; After the years I presented my thesis to opt for the degree of Bachelor of Physics in September 2020 and I graduated in May 2021, but I am currently venturing into the world of web programming. I am finishing a Full Stack programming course at Edtecnica. I am a Full Stack developer, passionate about the world of web programming, capable of working both on the client side (Front End) and on the server side (Back End), with tools that allow me to face different phases in the construction of software.</p>
 
 - 🔭 I’m currently working on **my final project to obtain my Edtecnica Full Stack programmer certificate, creating an online clothing store**
 
